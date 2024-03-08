@@ -5,20 +5,19 @@ def solution(N, stages):
         
     acc=0
     len_st=len(stages)
-    for i in range(1,N+1):
-        i_count=stages.count(i)
-        if len_st-acc==0:
+    for num in range(1,N+1):
+        num_count=stages.count(num)
+        under=len_st-acc
+        
+        if under==0: 
             break
-        dic[i]=i_count/(len_st-acc)
-        acc+=i_count
+            
+        dic[num]=num_count/(under)
+        acc+=num_count
 
     result = sorted(dic.items(),key = lambda x: x[1], reverse=True)
     
-    answer=[]
-    for i in result:
-        answer.append(i[0])
-
-    return answer
+    return [i[0] for i in result]
 
 # def solution(N, stages):
 #     dic = {}
