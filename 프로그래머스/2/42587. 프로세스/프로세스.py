@@ -22,16 +22,14 @@ def solution(priorities, location):
         if len(deq_list)==0:
             return answer+1
     
-        
         # 2번에 해당
         if pop<max(deq_list):
             deq_list.append(pop)
-        elif pop>=max(deq_list) and location==0:
+        elif pop>=max(deq_list):
             answer+=1
-            return answer
-        elif pop>=max(deq_list) :
-            answer+=1
-                    
+            if location==0:
+                return answer
+
         # 위치 추적
         if location==0:
             location=len(deq_list)-1
