@@ -1,10 +1,10 @@
 # [level 0] 특수문자 출력하기 - 181948 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181948?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181948?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 61.1 MB, 시간: 137.69 ms
+메모리: 44.7 MB, 시간: 119.67 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 11일 08:36:08
+2024년 06월 02일 18:46:24
 
 ### 문제 설명
 
