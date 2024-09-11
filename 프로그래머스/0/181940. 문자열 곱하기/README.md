@@ -1,10 +1,10 @@
 # [level 0] 문자열 곱하기 - 181940 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181940?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 75.2 MB, 시간: 0.03 ms
+메모리: 60.7 MB, 시간: 4.08 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 15일 08:46:27
+2024년 09월 11일 21:21:55
 
 ### 문제 설명
 
