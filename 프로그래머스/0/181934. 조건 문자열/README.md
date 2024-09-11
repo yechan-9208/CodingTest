@@ -1,10 +1,10 @@
 # [level 0] 조건 문자열 - 181934 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181934?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 73.1 MB, 시간: 0.02 ms
+메모리: 60.2 MB, 시간: 3.85 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 17일 21:28:41
+2024년 09월 11일 21:45:47
 
 ### 문제 설명
 
